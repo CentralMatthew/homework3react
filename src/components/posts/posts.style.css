@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+
+}
+
+.posts-block {
+    padding: 10px;
+    border: 1px solid #ce3a0e;
+    width: fit-content;
+}
+
+.detail-post-block {
+    border: 1px solid rgba(116, 14, 206, 0.82);
+    width: fit-content;
+    padding: 10px;
+}

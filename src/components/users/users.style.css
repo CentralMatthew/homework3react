@@ -1,0 +1,17 @@
+.wrap {
+    display: flex;
+}
+
+.user-box {
+    width: fit-content;
+    padding: 10px;
+    border: 1px solid;
+    margin: 5px;
+}
+
+.user-details-box {
+    width: fit-content;
+    padding: 10px;
+    border: 1px solid aqua;
+    margin: 5px;
+}
